@@ -4,3 +4,4 @@ Notes and usage details for mcp-devtools.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- link the usage section
